@@ -14,6 +14,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/qr-code-component-using-bem-and-flexbox-47Oxtla64N)
 - Live Site URL: [Live site](https://edwardr0507.github.io/qr-code-component)
 
 ## My process
