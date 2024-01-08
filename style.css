@@ -19,7 +19,7 @@ body {
 main {
   background-color: var(--light-gray);
   width: 100vw;
-  height: 100vh;
+  min-height: 100vh;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -35,7 +35,7 @@ main {
   display: flex;
   flex-direction: column;
   gap: 16px;
-  margin: 0 16px;
+  margin: 16px;
 }
 
 .card__header {
